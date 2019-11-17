@@ -1,2 +1,3 @@
 site_name: jArchi API
 docs_dir: docs
+theme: readthedocs

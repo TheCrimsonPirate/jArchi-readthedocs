@@ -1,0 +1,1 @@
+If you value and use Archi please consider [making a donation](https://www.archimatetool.com/donate) !
